@@ -57,11 +57,7 @@ npm run gather
 
 # 👤 Author
 
-### Discord: bambi_bf in discord
-
-### Twitter: [Dave Vasu](https://x.com/RambautETH)   
-https://x.com/RambautETH
-### Telegram: [DaveVasu](https://t.me/davevasu)   
-https://t.me/davevasu
+### Telegram: (https://t.me/dogewhiz)   
+https://t.me/dogewhiz
 
 You can always find me here, for help, or for other projects.
